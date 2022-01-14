@@ -13,7 +13,7 @@ This is the first project in the APIs week at Microverse. It is a basic leaderbo
 
 ## Live Demo
 
-[Live Demo Link](https://DelhinRharl.github.io/math-magician/)
+[Live Demo Link](https://DelhinRharl.github.io/math-magician/src/)
 
 ## Getting Started
 
