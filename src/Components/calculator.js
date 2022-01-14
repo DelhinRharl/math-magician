@@ -1,7 +1,6 @@
 import React from 'react';
 import calculate from '../logic/calculate';
 
-
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
@@ -9,15 +8,15 @@ class Calculator extends React.Component {
     this.btnClick = this.btnClick.bind(this);
   }
 
-   btnClick(e) {
+  btnClick(e) {
     this.setState((state) => calculate(state, e.target.textContent));
   }
 
   render() {
-        const { next, total } = this.state;
+    const { next, total } = this.state;
     return (
       <div className="container">
-        <div className="output">{next || total ||0}</div>
+        <div className="output">{next || total || 0}</div>
         <div className="btns">
           <button id="ac" type="button" className="btn" onClick={this.btnClick}>AC</button>
           <button id="plusminus" type="button" className="btn" onClick={this.btnClick}>+/-</button>

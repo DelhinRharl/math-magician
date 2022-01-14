@@ -40,7 +40,7 @@
   cursor: pointer;
 }
 
-#mod:hover{
+#mod:hover {
   background-color: rgba(192, 72, 3, 0.993);
 }
 
@@ -49,15 +49,16 @@
   cursor: pointer;
 }
 
-#multiply:hover{
+#multiply:hover {
   background-color: rgba(192, 72, 3, 0.993);
 }
+
 #minus {
   background-color: rgba(255, 94, 0, 0.788);
   cursor: pointer;
 }
 
-#minus:hover{
+#minus:hover {
   background-color: rgba(192, 72, 3, 0.993);
 }
 
@@ -66,7 +67,7 @@
   cursor: pointer;
 }
 
-#plus:hover{
+#plus:hover {
   background-color: rgba(192, 72, 3, 0.993);
 }
 
@@ -75,7 +76,7 @@
   cursor: pointer;
 }
 
-#equals:hover{
+#equals:hover {
   background-color: rgba(192, 72, 3, 0.993);
 }
 
@@ -86,4 +87,3 @@
   align-items: center;
   padding-top: 2rem;
 }
-
