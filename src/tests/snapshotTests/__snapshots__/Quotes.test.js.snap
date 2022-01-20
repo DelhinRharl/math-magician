@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`quotes component matches the snapshot 1`] = `
+<main
+  className="quotes"
+>
+  <p
+    className="quote-content"
+  >
+    Mathematics is the music of reason
+    <b>
+      — James Joseph Sylvester
+    </b>
+  </p>
+</main>
+`;
