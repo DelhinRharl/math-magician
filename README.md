@@ -13,7 +13,9 @@ This is the first week;y project in the react Module. The project involves a sim
 
 ## Live Demo
 
-[Live Demo Link](https://DelhinRharl.github.io/math-magician/src/)
+[Live Demo Link](https://gallant-babbage-8243b5.netlify.app/)
+[Live Demo Link](https://math-magician-affaxed.herokuapp.com/)
+
 
 ## Getting Started
 
