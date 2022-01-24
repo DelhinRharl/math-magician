@@ -39,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/dom": "^8.11.2",
-    "gh-pages": "^3.2.3"
+    "@testing-library/dom": "^8.11.2"
   }
 }
