@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Leaderboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the first project in the APIs week at Microverse. It is a basic leaderboard with the use of custom Apis from Microverse capstone Project
 
-## Available Scripts
+![screenshot](./images/scn.png)
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- HTML5
+- CSS
+- Javascript
+- React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Live Demo Link](https://DelhinRharl.github.io/math-magician/)
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run build`
+## Install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In your terminal, navigate to your current directory and run this code
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`git clone https://github.com/DelhinRharl/math-magician.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Locate the directory in your file explorer
 
-### `npm run eject`
+`cd Leaderboard`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install npm or if installed already using this link
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`npm install`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Start the web dev server depending on your configuration
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+`npm start`
 
-## Learn More
+The Project should now be live on your browser
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Authors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👤 **Author1**
 
-### Code Splitting
+- GitHub: [@DelhinRharl](https://github.com/DelhinRharl)
+- Twitter: [@tdelhinrharl](https://twitter.com/delhinrharl)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/AffaxedKiprotich)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📝 License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
