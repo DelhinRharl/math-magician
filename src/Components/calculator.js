@@ -13,7 +13,7 @@ const Calculator = () => {
     <div className="g-container">
       <p>Lets do some math</p>
       <div className="container">
-        <div className="output">{next || total || 0}</div>
+        <div data-testid="output" className="output">{next || total || 0}</div>
         <div className="btns">
           <button id="ac" type="button" className="btn" onClick={btnClick}>AC</button>
           <button id="plusminus" type="button" className="btn" onClick={btnClick}>+/-</button>
